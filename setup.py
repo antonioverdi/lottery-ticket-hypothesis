@@ -65,7 +65,5 @@ setup(
 
     keywords='lottery ticket hypothesis',
 
-    packages=['lottery-ticket'],
-
     install_requires=DEPENDENCIES,
 )
